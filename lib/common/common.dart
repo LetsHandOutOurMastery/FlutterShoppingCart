@@ -1,0 +1,1 @@
+export 'package:shoppingcart/components/loading_indicator.dart';
